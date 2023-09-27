@@ -1,7 +1,7 @@
 {
   "name": "university-management-api-gateway",
   "version": "1.0.0",
-  "repository": "",
+  "repository": "https://github.com/Programming-Hero-Next-Level-Development/university-management-api-gateway.git",
   "author": "al mamun khan",
   "license": "MIT",
   "scripts": {
